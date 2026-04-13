@@ -1,1 +1,6 @@
 tmp_data/
+.vscode/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
