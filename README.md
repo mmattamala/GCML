@@ -9,3 +9,19 @@ Citation:
   year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
+
+### Execution
+This project is setup with [pixi](https://pixi.prefix.dev/latest/).
+
+```sh
+curl -fsSL https://pixi.sh/install.sh | sh
+
+pixi install
+
+# if you only have CPU
+pixi shell
+# or, if you have an nvidia GPU
+pixi shell -e gpu
+
+jupyter notebook
+```
