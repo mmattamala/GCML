@@ -1,5 +1,6 @@
 tmp_data/
 .vscode/
+.ipynb_checkpoints/
 
 # pixi environments
 .pixi/*
