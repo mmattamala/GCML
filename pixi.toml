@@ -1,5 +1,5 @@
 [workspace]
-authors = ["Matias Mattamala <matias.mattamala@ed.ac.uk>"]
+authors = ["Hui Lin", "Yukun Yang", "Rong Zhao", "Giovanni Pezzulo", "Wolfgang Maass"]
 channels = ["conda-forge"]
 name = "GCML"
 platforms = ["linux-64", "osx-arm64"]
